@@ -1,4 +1,4 @@
 # lettercounter
 JavaScript Projects 1/8 <br>
-Letter COunter <br>
+Letter Counter <br>
 Difficulty: Easy
